@@ -1,4 +1,4 @@
-# Registrarion Form
+# Registration Form
 
 ## About
 Context and progress go here
