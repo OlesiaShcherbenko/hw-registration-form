@@ -1,7 +1,7 @@
 # Registration Form
 
 ## About
-Context: Create a user registration form in which all fields are required and the form have basic validation
+Create a user registration form in which all fields are required and the form have basic validation
 
 ## Installation
 
