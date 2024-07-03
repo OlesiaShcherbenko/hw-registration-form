@@ -1,7 +1,7 @@
-# Registrarion Form
+# Registration Form
 
 ## About
-Context and progress go here
+Create a user registration form in which all fields are required and the form have basic validation
 
 ## Installation
 
